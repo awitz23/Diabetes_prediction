@@ -1,3 +1,10 @@
 # Diabetes Prediction
-This repository contains a machine learning model for predicting diabetes using supervised learning techniques.  
-Notebooks are saved from Google Colab.
+
+This repository contains a supervised machine learning model for predicting diabetes.
+
+Notebooks are exported from Google Colab.
+The two key files are:
+
+model_pipeline.ipynb – includes data preprocessing, feature engineering, and algorithm evaluation.
+
+final_model.ipynb – contains the best-performing model, ready for evaluation with your own data.
